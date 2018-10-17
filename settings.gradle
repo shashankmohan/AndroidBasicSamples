@@ -1,1 +1,1 @@
-include ':app', ':contentprovidersample', ':servicesample'
+include ':app', ':contentprovidersample', ':servicesample', ':activitysample'
