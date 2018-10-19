@@ -18,6 +18,7 @@
         </activity>
 
         <service android:name=".MySimpleService"/>
+        <service android:name=".LocalBinderService"/>
     </application>
 
 </manifest>
